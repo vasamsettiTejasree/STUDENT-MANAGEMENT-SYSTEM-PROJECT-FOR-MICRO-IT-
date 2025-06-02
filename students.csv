@@ -1,0 +1,6 @@
+Student_ID,Name,Gender,Attendance,Sem1,Sem2,Sem3,Final Exam Score,Performance Label,Activities,internet_access
+101,Alice,F,92,60,40,75,80,High,1,1
+102,Bob,M,76,70,68,65,60,Average,0,1
+103,Charlie,M,85,82,57,70,75,High,1,1
+104,David,M,60,55,76,50,45,Low,1,1
+105,Eva,F,98,90,56,85,95,High,0,1
